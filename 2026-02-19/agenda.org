@@ -1,0 +1,9 @@
+* Processes and Cores
+[Bryant - Chapter 1]
+
+- [X] Core utilization and processes
+- [X] Process scheduling
+- [X] Java and multi-processes
+- [X] Distributed computation
+- [X] *Parallelism* vs *concurrency*
+- [ ] What OS can't do

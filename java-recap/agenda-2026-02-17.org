@@ -1,0 +1,17 @@
+* Modern CPUs
+[Bryant - Chapter 1]
+
+- [X] Trends in CPUs
+- [X] Multi-die setups
+- [X] CCDs (Core Complex DIE) and CCXs (Core Complexs)
+- [X] Multi-Tier Memory: L1, L2, L3, Main memory, etc.
+- [X] Multi-Processor setups.
+
+** Conclusion:
+- Multiprocessors are the norm.
+- Caching matter.
+
+* Homework:
+ALUs,
+Program Counters,
+Intel Hyper-Threading / AMD SMT.
