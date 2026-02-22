@@ -6,4 +6,4 @@
 - [X] Java and multi-processes
 - [X] Distributed computation
 - [X] *Parallelism* vs *concurrency*
-- [ ] What OS can't do
+- [X] What OS can't do
