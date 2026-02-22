@@ -1,0 +1,23 @@
+* Multi-Thread Programming - Introduction
+[Scott - Chapter 1]
+
+- [X] What is a Thread?
+- [X] Thread life cycle
+- [X] 3 approaches to create threads in Java
+- [X] Data sharing among threads
+- [X] Thread sleeping
+
+
+A thread refers to the smallest sequence of programmed instructions that can be managed independently by [[id:dec9f6b5-88d9-414c-98a2-01bf0f9acc7a][OS]] scheduler
+
+* H.W.
+Write a Java program in which two threads executes the same block of code, at the exact same time.
+
+* Lab 1
+Write a Java application to create three threads (T1, T2 and T3):
+
+- T1: Prompts the user to enter two integers.
+- T2: Then prints the result of adding these two numbers.
+- T3: Prints the result of dividing these two numbers.
+
+You are not allowed to use a tool/API/library/feature that we haven't studied as of Feb 22, 2026!
