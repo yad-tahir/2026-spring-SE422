@@ -1,0 +1,33 @@
+* Cost of Threads
+[Scott - Chapter 10]
+
+- [X] Thread overheads
+- [X] Cost of context switching
+- [X] Solution: Fixed Thread Pools
+- [X] New debugging tool: visualvm <--- *Very COOL*
+
+* H.W.
+** Q1
+What does this statement mean:
+*Every thread has its own private stack*
+
+** Q2
+Write a Java application in which:
+- The main method launches a thread, T1.
+- T1 will execute a block of code of your choose, then it launches two new threads (T2 & T3) running the same block of code of T1.
+- Each of T2 and T3 executes its assigned block of code and launch another two threads re-executing the same block of code.
+- Repeat doing this until you have launched 128 threads in total.
+
+#+BEGIN_SRC text
+main -> T1-----> T2----> T4----> Tn...
+	    |        |        -> Tn...
+	    |        |
+	    |        -> T5----> Tn...
+	    |                -> Tn...
+	    |
+	     -> T3----> T6----> Tn...
+		|            -> Tn...
+		|
+		------> T7----> Tn...
+			     -> Tn...
+#+END_SRC
