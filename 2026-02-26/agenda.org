@@ -1,0 +1,7 @@
+* Truth about Performance gain
+[Maurcie - Chapter 1]
+
+- [X] Performance gain and how to measure it
+- [X] Speedup metric
+- [X] *Amdahl law*
+- [X] Facts proven from Amdahl speedup Law
