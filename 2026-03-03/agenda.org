@@ -1,0 +1,12 @@
+* Mutual Exclusion
+[Maurcie - Chapter 2]
+[Tim - Chapter 2]
+
+- [X] Conclusion from /Amdahl law/
+- [X] Single thread to multi-thread example
+- [X] Concurrency issue
+
+
+- [X] Mutual exclusion <- mutex
+- [X] Java Solution: Intrinsic locks
+- [X] Terms: critical section, thread unsafe, mutex, lock, etc.
