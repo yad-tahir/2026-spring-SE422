@@ -1,0 +1,10 @@
+* Intrinsic locks - Part 2
+[Tim - Chapter 2]
+
+- [X] Recap: *critical sections & mutex*
+- [X] Lab 2: synchronized blocks
+- [X] Lock optimization
+
+* H.W.
+
+- [X] Counter with increment and decrement methods
