@@ -1,0 +1,8 @@
+* Deadlocks
+[Tim - Chapter 2]
+
+- [X] Recap: Critical section model
+- [X] Introduce request-to-enter events to our model
+- [X] Starvation Avoidance
+- [X] Deadlock Avoidance
+- [X] Demo: Java deadlock
