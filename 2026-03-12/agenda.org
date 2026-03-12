@@ -1,0 +1,8 @@
+* Explicit Locks
+[Tim - Chapter 13]
+
+- [X] Drawback of intrinsic locks/sync
+- [X] Explicit locks
+- [X] ReentrantLock as explicit locks
+- [X] /finally/ block requirement
+- [X] Java demo
