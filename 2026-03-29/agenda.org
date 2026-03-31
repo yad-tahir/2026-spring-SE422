@@ -1,0 +1,7 @@
+* Read/Write Reentrant Locks
+[Tim - Chapter 13]
+
+- [X] Recap Reentrant Locks
+- [X] Read vs Write Memory Operations
+- [X] Read/Write Reentrant Locks
+- [X] Code demo
