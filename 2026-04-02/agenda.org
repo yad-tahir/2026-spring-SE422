@@ -1,0 +1,6 @@
+* Thread Safety Immutable Classes
+
+- [X] Recap Thread Safety in Read Memory Operations
+- [X] Immutable Classes
+- [X] Lockless thread safety
+- [X] Java demo
