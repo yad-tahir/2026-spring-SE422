@@ -1,0 +1,7 @@
+* Thread Coordination - Part 1
+[Maurcie - Chapter 16]
+
+- [X] What is Thread Coordination?
+- [X] join()
+- [X] interrupt()
+- [X] Java code demo
