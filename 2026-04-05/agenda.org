@@ -1,0 +1,5 @@
+* Lock Optimization - Part 2
+
+- [X] Where to put the locks?
+- [X] Scope Code Engineering
+- [X] Java Code Example
