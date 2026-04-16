@@ -1,0 +1,6 @@
+* Thread Coordination - Part 3
+[Official Java Doc]
+
+- [X] Data structures as thread synchronization tools.
+- [X] BlockingQueue & BlockingDeque
+- [X] SynchronousQueue
