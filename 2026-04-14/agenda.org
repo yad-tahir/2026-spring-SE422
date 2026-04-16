@@ -1,0 +1,9 @@
+* Thread Coordination - Part 2
+[Tim - Chapter 14]
+
+- [X] Recap - Part 1
+- [X] Building Custom Synchronizers
+- [X] wait() & await()
+- [X] notify()/notifyAll() & signal()/signalAll()
+
+* Lab 3
