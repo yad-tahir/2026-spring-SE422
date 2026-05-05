@@ -1,0 +1,7 @@
+* Atomic Variables - Part 1
+[Brian - Chapter 15]
+
+- [X] CAS Operations (Compare And Swap/Exchange).
+- [X] What are atomic data operations?
+- [X] /Integer Atomic/ data type.
+- [X] Java demo
