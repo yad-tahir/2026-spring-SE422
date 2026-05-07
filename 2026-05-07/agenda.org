@@ -1,0 +1,17 @@
+* Atomic Variables - Part 3
+[Brian - Chapter 15]
+[Maurcie - Chapter 5]
+
+- [X] Atomic Boolean
+- [X] Atomic for complex data types: Atomic Reference
+
+- [X] Atomic Long
+- [X] LongAdder and its Pros/Cons
+- [X] @Contended variables
+
+- [X] ***Google Guava for Double/Float atomics
+
+** H.W.
+- In Java Doc for LongAdder, sumThenReset(), it is mentioned that this method should be called during *quiescent points*. What are those?
+
+- How is it possible sumThenReset() to be /thread safe/ (this clearly performs two operations *sum* and *rest*)?
