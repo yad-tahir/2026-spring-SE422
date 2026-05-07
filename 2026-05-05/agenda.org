@@ -1,7 +1,7 @@
 * Atomic Variables - Part 2
 [Brian - Chapter 15]
 
-- [ ] Converting complex arithmetic to an atomic one
-- [ ] Execution in CPU
-- [ ] Limitations of atomic
-- [ ] a case of limitations
+- [X] Converting complex arithmetic to an atomic one
+- [X] Execution in CPU
+- [X] Limitations of atomic
+- [X] a case of limitations
