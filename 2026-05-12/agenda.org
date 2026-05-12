@@ -1,0 +1,20 @@
+* Runtime Code Optimization
+
+- [X] Runtime code optimization in VM-based languages
+- [X] Just-In-Time (JIT) Compilations
+- [X] Code Examples
+- [X] *volatile* keyword
+
+
+** H.W.
+Assume x=0 and y=0
+
+Thread1:
+y=1
+a=x
+
+Thread2:
+x=1
+b=y
+
+What are the possible values of a and b?
