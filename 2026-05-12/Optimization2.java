@@ -21,9 +21,4 @@ public class Optimization2 {
 		System.out.println("Data processed.");
 	}
 
-	void main() {
-		for (int i = 0; i < 20000; i++) {
-			processData(i);
-		}
-	}
 }

@@ -5,7 +5,6 @@
 - [X] Code Examples
 - [X] *volatile* keyword
 
-
 ** H.W.
 Assume x=0 and y=0
 

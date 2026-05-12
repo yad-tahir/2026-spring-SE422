@@ -1,6 +1,6 @@
 public class Counter {
-	volatile int x;
-	volatile int y;
+	int x;
+	int y;
 
 	public void method1() {
 		x += 1; // from the heap
