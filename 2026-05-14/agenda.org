@@ -1,0 +1,16 @@
+* Memory Reordering - Part 1
+
+- [ ] Recap: Memory Ordering Optimization
+- [ ] Hardware-based Memory Ordering
+- [ ] Solution to the homework
+- [ ] Memory Module in CPU, in High-Level Language Memory (in Java, JMM)
+- [ ] Java Demo
+
+** Prev H.W.
+Assume x=0 and y=0
+
+Thread1: y=1, a=x
+
+Thread2: x=1, b=y
+
+What are the possible values of a and b?
