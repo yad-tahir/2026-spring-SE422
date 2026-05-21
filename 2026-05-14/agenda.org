@@ -1,10 +1,10 @@
 * Memory Reordering - Part 1
 
-- [ ] Recap: Memory Ordering Optimization
-- [ ] Hardware-based Memory Ordering
-- [ ] Solution to the homework
-- [ ] Memory Module in CPU, in High-Level Language Memory (in Java, JMM)
-- [ ] Java Demo
+- [X] Recap: Memory Ordering Optimization
+- [X] Hardware-based Memory Ordering
+- [X] Solution to the homework
+- [X] Memory Module in CPU, in High-Level Language Memory (in Java, JMM)
+- [X] Java Demo
 
 ** Prev H.W.
 Assume x=0 and y=0
