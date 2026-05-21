@@ -1,0 +1,15 @@
+* Memory Reordering - Part 2
+
+- [X] Recap: Memory Ordering
+- [X] Memory Fences
+- [X] /Acquire/ fence & /Release/ fence
+- [X] *Sequential Consistency*
+- [X] Java Demo: VarHandle
+
+* H.W. 1: what are these methods in Atomic/VarHandle classes
+DATA_HANDLE.set(this,value);
+DATA_HANDLE.setOpaque(this, value);
+
+* H.W. 2: What is the difference between
+DATA_HANDLE.setRelease(this, value);
+DATA_HANDLE.releaseFence();
